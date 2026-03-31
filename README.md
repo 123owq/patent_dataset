@@ -2,8 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
 ![uv](https://img.shields.io/badge/package_manager-uv-purple)
-![Model](https://img.shields.io/badge/LLM-DeepSeek_v3-green)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Model(tool1, 2)](https://img.shields.io/badge/LLM-DeepSeek_v3-green)
+
 
 KIPRIS Plus API로 특허 데이터를 수집하고, PDF를 파싱해 구조화된 JSON을 만든 뒤,
 특허 심사 대응에 필요한 5개 AI 툴의 학습/평가 데이터셋을 구축하는 프로젝트입니다.
